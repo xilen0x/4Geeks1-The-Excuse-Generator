@@ -1,0 +1,1 @@
+document.querySelector('#excuse').innerHTML = "Hola tatatat"
